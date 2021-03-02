@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Musical App</string>
+    <string name="song_name">Song Name</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="home">HOME</string>
+    <string name="albums">ALBUMS</string>
+    <string name="songs">SONGS</string>
+    <string name="select_from">  Select from your favorite songs above</string>
+    <string name="play">Play</string>
+    <string name="first_song_name">First Song</string>
+    <string name="first_song_artist">First Artist</string>
+    <string name="second_song_name">second Song</string>
+    <string name="second_song_artist">second Artist</string>
+    <string name="third_song_name">third Song</string>
+    <string name="third_song_artist">third Artist</string>
+    <string name="forth_song_name">Forth Song</string>
+    <string name="forth_song_artist">Forth Artist</string>
+    <string name="fifth_song_name">Fifth Song</string>
+    <string name="fifth_song_artist">Fifth Artist</string>
+    <string name="first_album_name">First Album</string>
+    <string name="second_album_name">second Album</string>
+    <string name="third_album_name">third Album</string>
+    <string name="forth_album_name">forth Album</string>
+    <string name="fifth_album_name">Fifth Artist</string>
+    <string name="MyAlbum">Album</string>
+    <string name="MySong">Song</string>
+</resources>
